@@ -21,6 +21,10 @@ public class finalGame {
         return;
     }
 
+    menuStart();
+    }
+    
+    public static void menuStart(){
     String  title = " _____         _            _    _            ______  _               _    \n" +
                    "|_   _|       | |          | |  | |           | ___ \\| |             | |   \n" +
                    "  | |   _ __  | |_   ___   | |_ | |__    ___  | |_/ /| |  __ _   ___ | | __\n" +
